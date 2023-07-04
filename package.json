@@ -1,0 +1,28 @@
+{
+  "name": "sophiya",
+  "version": "1.0.0",
+  "description": "Scheduler / Reminder and tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdudeja/sophiya.git"
+  },
+  "author": "hdudeja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdudeja/sophiya/issues"
+  },
+  "homepage": "https://github.com/hdudeja/sophiya#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1"
+  }
+}
